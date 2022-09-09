@@ -1,2 +1,3 @@
-<p align="center">
-## C# Intermediate Concepts
+<p align="center" size="50px">
+C# Intermediate Concepts
+</p>
