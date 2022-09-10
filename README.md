@@ -34,5 +34,5 @@ A stack collection represents a simple last-in, first-out collection. It means t
 ###### Hashtable:
 The Hashtable represents a collection of a key-value pair that is organized based on the hash code of the key. Differently, from the queue and stack collections, we can instantiate a hashtable object by using the only System.Collections namespace.
 
-###### List<T>:
+###### List<T> :
 A List<T> represents a strongly typed collection of objects that can be accessed by index.
