@@ -22,3 +22,7 @@ In this tutorial, we are going to learn about C# intermediate concepts. We will 
    - [List](./csharp-intermediate-concepts/List-and-Dictionary/List.cs)
    - [Dictionary](./csharp-intermediate-concepts/List-and-Dictionary/Dictionary.cs)
  - [Delegates](./csharp-intermediate-concepts/Delegates)
+
+
+## Definitions
+###### Queue Collection:
