@@ -13,7 +13,7 @@ In this tutorial, we are going to learn about C# intermediate concepts. We will 
  - Inheritance
  - Interfaces
  - Abstract Classes
- - Generics
+ - [Generics](./csharp-intermediate-concepts/Generics)
  - Queue, Stack, Hashtable
    - [Queue](./csharp-intermediate-concepts/Queue-Stack-Hashtable/QueueCollection.cs)
    - [Stack](./csharp-intermediate-concepts/Queue-Stack-Hashtable/StackCollection.cs)
@@ -43,3 +43,6 @@ In this tutorial, we are going to learn about C# intermediate concepts. We will 
 
 ###### Delegates:
  - A delegate is a reference to a method. We can use a delegate object to pass it to the code in which we want to call a referenced method, without knowing at compile time which method will be invoked.
+
+###### Generics:
+ - C# provides generics to help us remove the need for casting, to improve type safety and make it easier to create generic classes and generic methods.
