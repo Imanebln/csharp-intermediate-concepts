@@ -21,4 +21,4 @@ In this tutorial, we are going to learn about C# intermediate concepts. We will 
  - Generic List and Dictionary
    - [List](./csharp-intermediate-concepts/List-and-Dictionary/List.cs)
    - [Dictionary](./csharp-intermediate-concepts/List-and-Dictionary/Dictionary.cs)
- - Delegates
+ - [Delegates](./csharp-intermediate-concepts/Delegates)
