@@ -42,4 +42,4 @@ In this tutorial, we are going to learn about C# intermediate concepts. We will 
  - Dictionary represents a collection of keys and values.
 
 ###### Delegates:
-A delegate is a reference to a method. We can use a delegate object to pass it to the code in which we want to call a referenced method, without knowing at compile time which method will be invoked.
+ - A delegate is a reference to a method. We can use a delegate object to pass it to the code in which we want to call a referenced method, without knowing at compile time which method will be invoked.
