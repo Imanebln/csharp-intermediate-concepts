@@ -46,3 +46,6 @@ In this tutorial, we are going to learn about C# intermediate concepts. We will 
 
 ###### Generics:
  - C# provides generics to help us remove the need for casting, to improve type safety and make it easier to create generic classes and generic methods.
+
+###### Abstract Classes:
+ - An abstract class can contain abstract methods. An abstract method doesn’t contain implementation just a definition with the abstract keyword.
