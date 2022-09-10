@@ -4,21 +4,21 @@ In this tutorial, we are going to learn about C# intermediate concepts. We will 
 
 To learn about the OOP concept, we are going to cover the following topics:
 
-Classes and Constructors
-Properties
-Static Members, Constants, and Extension Methods
-Anonymous and Nullable Types
-Structures
-Enumerations
-Inheritance
-Interfaces
-Abstract Classes
-Generics
-Queue, Stack, Hashtable
- [Queue](./csharp-intermediate-concepts/Queue-Stack-Hashtable/QueueCollection.cs)
- [Stack](./csharp-intermediate-concepts/Queue-Stack-Hashtable/StackCollection.cs)
- [Hashtable](./csharp-intermediate-concepts/Queue-Stack-Hashtable/HashtableCollection.cs)
-Generic List and Dictionary
- [List](./csharp-intermediate-concepts/List-and-Dictionary/List.cs)
- [Dictionary](./csharp-intermediate-concepts/List-and-Dictionary/Dictionary.cs)
-Delegates
+ - Classes and Constructors
+ - Properties
+ - Static Members, Constants, and Extension Methods
+ - Anonymous and Nullable Types
+ - Structures
+ - Enumerations
+ - Inheritance
+ - Interfaces
+ - Abstract Classes
+ - Generics
+ - Queue, Stack, Hashtable
+   - [Queue](./csharp-intermediate-concepts/Queue-Stack-Hashtable/QueueCollection.cs)
+   - [Stack](./csharp-intermediate-concepts/Queue-Stack-Hashtable/StackCollection.cs)
+   - [Hashtable](./csharp-intermediate-concepts/Queue-Stack-Hashtable/HashtableCollection.cs)
+ - Generic List and Dictionary
+   - [List](./csharp-intermediate-concepts/List-and-Dictionary/List.cs)
+   - [Dictionary](./csharp-intermediate-concepts/List-and-Dictionary/Dictionary.cs)
+ - Delegates
