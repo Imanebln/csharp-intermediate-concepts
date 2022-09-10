@@ -14,11 +14,11 @@ In this tutorial, we are going to learn about C# intermediate concepts. We will 
  - Interfaces
  - Abstract Classes
  - [Generics](./csharp-intermediate-concepts/Generics)
- - Queue, Stack, Hashtable
+ - [Queue, Stack, Hashtable](./csharp-intermediate-concepts/Queue-Stack-Hashtable)
    - [Queue](./csharp-intermediate-concepts/Queue-Stack-Hashtable/QueueCollection.cs)
    - [Stack](./csharp-intermediate-concepts/Queue-Stack-Hashtable/StackCollection.cs)
    - [Hashtable](./csharp-intermediate-concepts/Queue-Stack-Hashtable/HashtableCollection.cs)
- - Generic List and Dictionary
+ - [Generic List and Dictionary](./csharp-intermediate-concepts/List-and-Dictionary)
    - [List](./csharp-intermediate-concepts/List-and-Dictionary/List.cs)
    - [Dictionary](./csharp-intermediate-concepts/List-and-Dictionary/Dictionary.cs)
  - [Delegates](./csharp-intermediate-concepts/Delegates)
