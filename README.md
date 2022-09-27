@@ -4,7 +4,7 @@ In this tutorial, we are going to learn about C# intermediate concepts. We will 
 
 ## To learn about the OOP concept, we are going to cover the following topics:
 
- - Classes and Constructors
+ - [Classes and Constructors](./csharp-intermediate-concepts/Classes-and-Constructors)
  - Properties
  - Static Members, Constants, and Extension Methods
  - Anonymous and Nullable Types
@@ -49,3 +49,7 @@ In this tutorial, we are going to learn about C# intermediate concepts. We will 
 
 ###### Abstract Classes:
  - An abstract class can contain abstract methods. An abstract method doesn’t contain implementation just a definition with the abstract keyword.
+ 
+###### Classes and Constructors:
+ - A partial class is nothing more than a part of a single class. To define partial classes, we need to use the partial keyword in each file.
+ - The constructor is a special method that has the same name as the class it is defined in, doesn’t return any value (not even void) and can take parameters. It runs automatically when we create an instance of a class. So, every time we use the new keyword to instantiate a class, we are calling a constructor of that class.
