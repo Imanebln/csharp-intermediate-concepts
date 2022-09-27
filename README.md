@@ -12,7 +12,7 @@ In this tutorial, we are going to learn about C# intermediate concepts. We will 
  - Enumerations
  - Inheritance
  - Interfaces
- - Abstract Classes
+ - [Abstract Classes](./csharp-intermediate-concepts/Abstract-classes)
  - [Generics](./csharp-intermediate-concepts/Generics)
  - [Queue, Stack, Hashtable](./csharp-intermediate-concepts/Queue-Stack-Hashtable)
    - [Queue](./csharp-intermediate-concepts/Queue-Stack-Hashtable/QueueCollection.cs)
