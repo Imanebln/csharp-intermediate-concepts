@@ -28,7 +28,7 @@ namespace Abstract_classes
         static void Main(string[] args)
         {
             // The only purpose of the abstract class is to be inherited from and it cannot be instantiated:
-            AbstractionExampleClass example = new AbstractionExampleClass();
+            //AbstractionExampleClass example = new AbstractionExampleClass();
             // Cannot create instance of this abstract class 
 
             
