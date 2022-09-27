@@ -4,7 +4,7 @@ In this tutorial, we are going to learn about C# intermediate concepts. We will 
 
 ## To learn about the OOP concept, we are going to cover the following topics:
 
- - [Classes and Constructors] (./csharp-intermediate-concepts/Classes-and-Constructors)
+ - [Classes and Constructors](./csharp-intermediate-concepts/Classes-and-Constructors)
  - Properties
  - Static Members, Constants, and Extension Methods
  - Anonymous and Nullable Types
