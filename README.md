@@ -59,4 +59,8 @@ In this tutorial, we are going to learn about C# intermediate concepts. We will 
 
 ###### Nullable Types:
  - The null value is useful for initializing reference types. So, it is logical that we can’t assign the null value to the value type because the null is itself a reference.
- 
+
+###### Structures
+ - A structure is a value type, in the opposite of a class which is a reference type, and it has its own fields, methods, and constructors like a class.
+ - The structure is a value type, while the class is a reference type.
+ - 
