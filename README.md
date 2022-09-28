@@ -53,3 +53,10 @@ In this tutorial, we are going to learn about C# intermediate concepts. We will 
 ###### Classes and Constructors:
  - A partial class is nothing more than a part of a single class. To define partial classes, we need to use the partial keyword in each file.
  - The constructor is a special method that has the same name as the class it is defined in, doesn’t return any value (not even void) and can take parameters. It runs automatically when we create an instance of a class. So, every time we use the new keyword to instantiate a class, we are calling a constructor of that class.
+
+###### Anonymous Classes:
+ - An anonymous class is a class that does not have a name. This sounds strange but sometimes an anonymous class can be useful, especially when using query expressions.
+
+###### Nullable Types:
+ - The null value is useful for initializing reference types. So, it is logical that we can’t assign the null value to the value type because the null is itself a reference.
+ 
