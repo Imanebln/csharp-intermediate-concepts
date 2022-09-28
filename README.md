@@ -9,7 +9,7 @@ In this tutorial, we are going to learn about C# intermediate concepts. We will 
  - Static Members, Constants, and Extension Methods
  - [Anonymous and Nullable Types](./csharp-intermediate-concepts/Anonymous-and-Nullable-Types)
  - [Structures](./csharp-intermediate-concepts/Structures)
- - Enumerations
+ - [Enumerations](./csharp-intermediate-concepts/Enumerations)
  - Inheritance
  - Interfaces
  - [Abstract Classes](./csharp-intermediate-concepts/Abstract-classes)
@@ -63,3 +63,6 @@ In this tutorial, we are going to learn about C# intermediate concepts. We will 
 ###### Structures
  - A structure is a value type, in the opposite of a class which is a reference type, and it has its own fields, methods, and constructors like a class.
  - The structure is a value type, while the class is a reference type.
+
+###### Enumerations
+- An enumeration type assigns the integer value to every element inside that enumeration. Those numbers start at 0 and increase by 1 for every other element.
