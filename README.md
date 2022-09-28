@@ -7,7 +7,7 @@ In this tutorial, we are going to learn about C# intermediate concepts. We will 
  - [Classes and Constructors](./csharp-intermediate-concepts/Classes-and-Constructors)
  - Properties
  - Static Members, Constants, and Extension Methods
- - Anonymous and Nullable Types
+ - [Anonymous and Nullable Types](./csharp-intermediate-concepts/Anonymous-and-Nullable-Types)
  - Structures
  - Enumerations
  - Inheritance
