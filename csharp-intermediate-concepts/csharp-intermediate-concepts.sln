@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics", "Generics\Generi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstract-classes", "Abstract-classes\Abstract-classes.csproj", "{FB4D6079-B1A2-46CA-AD3C-381282D30A3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes-and-Constructors", "Classes-and-Constructors\Classes-and-Constructors.csproj", "{8E92A86A-90CA-4EB9-95D9-BEEF106FEB1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes-and-Constructors", "Classes-and-Constructors\Classes-and-Constructors.csproj", "{8E92A86A-90CA-4EB9-95D9-BEEF106FEB1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anonymous-and-Nullable-Types", "Anonymous-and-Nullable-Types\Anonymous-and-Nullable-Types.csproj", "{DC8C1740-45DA-4CFA-A883-128542F5F101}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Anonymous-and-Nullable-Types", "Anonymous-and-Nullable-Types\Anonymous-and-Nullable-Types.csproj", "{DC8C1740-45DA-4CFA-A883-128542F5F101}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structures", "Structures\Structures.csproj", "{4928F5F2-1F07-4FF7-B36A-2093F7C45E71}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{DC8C1740-45DA-4CFA-A883-128542F5F101}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC8C1740-45DA-4CFA-A883-128542F5F101}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC8C1740-45DA-4CFA-A883-128542F5F101}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4928F5F2-1F07-4FF7-B36A-2093F7C45E71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4928F5F2-1F07-4FF7-B36A-2093F7C45E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4928F5F2-1F07-4FF7-B36A-2093F7C45E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4928F5F2-1F07-4FF7-B36A-2093F7C45E71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
