@@ -19,6 +19,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Anonymous-and-Nullable-Type
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structures", "Structures\Structures.csproj", "{4928F5F2-1F07-4FF7-B36A-2093F7C45E71}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumerations", "Enumerations\Enumerations.csproj", "{97433291-5F43-42DB-8AE8-C1CA853E19FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{4928F5F2-1F07-4FF7-B36A-2093F7C45E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4928F5F2-1F07-4FF7-B36A-2093F7C45E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4928F5F2-1F07-4FF7-B36A-2093F7C45E71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97433291-5F43-42DB-8AE8-C1CA853E19FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97433291-5F43-42DB-8AE8-C1CA853E19FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97433291-5F43-42DB-8AE8-C1CA853E19FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97433291-5F43-42DB-8AE8-C1CA853E19FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
