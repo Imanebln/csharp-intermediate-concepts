@@ -66,3 +66,6 @@ In this tutorial, we are going to learn about C# intermediate concepts. We will 
 
 ###### Enumerations
 - An enumeration type assigns the integer value to every element inside that enumeration. Those numbers start at 0 and increase by 1 for every other element.
+
+###### Interfaces 
+ - To define an interface we need to use the interface keyword. It is quite similar to defining a class just we use another keyword. Inside that interface, we specify our members without access modifier and implementation. So, we just provide a declaration for members, an implementation is a job for a class which implements that interfac.
