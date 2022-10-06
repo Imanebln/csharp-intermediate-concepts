@@ -5,7 +5,7 @@ In this tutorial, we are going to learn about C# intermediate concepts. We will 
 ## To learn about the OOP concept, we are going to cover the following topics:
 
  - [Classes and Constructors](./csharp-intermediate-concepts/Classes-and-Constructors)
- - Properties
+ - [Properties](./csharp-intermediate-concepts/Properties)
  - Static Members, Constants, and Extension Methods
  - [Anonymous and Nullable Types](./csharp-intermediate-concepts/Anonymous-and-Nullable-Types)
  - [Structures](./csharp-intermediate-concepts/Structures)
@@ -77,3 +77,9 @@ In this tutorial, we are going to learn about C# intermediate concepts. We will 
   - We can override only a virtual method. If we try to override a method that has no virtual keyword, we will get an error
   - If we don’t use the override keyword we are not overriding the method we are just hiding it. If this is the behavior we want, we should use the new keyword
   - An overridden method is a virtual one as well, so it can be overridden in a further derived class
+  
+###### Properties:
+ - A property is a member that provides a flexible tool to read and write the value of a private field. We use them as public data members but actually, they are specific methods called accessors.
+ - **Property Accessibility**:
+ - We can change the accessibility level of only one accessor. There is no point in having both accessors modified. If we want to modify both accessors, we should just modify the property access level.
+ - We can’t use access modifier on the get or set blocks that are less restrictive of the access modifier applied on a property itself. So, if our property is private, there is no point in having the public get or set block.
