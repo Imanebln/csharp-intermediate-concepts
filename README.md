@@ -60,12 +60,20 @@ In this tutorial, we are going to learn about C# intermediate concepts. We will 
 ###### Nullable Types:
  - The null value is useful for initializing reference types. So, it is logical that we can’t assign the null value to the value type because the null is itself a reference.
 
-###### Structures
+###### Structures:
  - A structure is a value type, in the opposite of a class which is a reference type, and it has its own fields, methods, and constructors like a class.
  - The structure is a value type, while the class is a reference type.
 
-###### Enumerations
+###### Enumerations:
 - An enumeration type assigns the integer value to every element inside that enumeration. Those numbers start at 0 and increase by 1 for every other element.
 
-###### Interfaces 
+###### Interfaces:
  - To define an interface we need to use the interface keyword. It is quite similar to defining a class just we use another keyword. Inside that interface, we specify our members without access modifier and implementation. So, we just provide a declaration for members, an implementation is a job for a class which implements that interfac.
+
+###### Inheritance:
+  **Rules to Follow While Working With Polymorphic Methods** :
+  -  We can’t declare a virtual method as private. Its purpose is to be exposed to a derived class, so making it private is meaningless. Similarly, overridden methods can’t be private because a derived class can’t change the protection level of a method that it inherits
+  - The signatures of virtual and overridden methods must be identical
+  - We can override only a virtual method. If we try to override a method that has no virtual keyword, we will get an error
+  - If we don’t use the override keyword we are not overriding the method we are just hiding it. If this is the behavior we want, we should use the new keyword
+  - An overridden method is a virtual one as well, so it can be overridden in a further derived class
