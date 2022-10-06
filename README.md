@@ -6,7 +6,7 @@ In this tutorial, we are going to learn about C# intermediate concepts. We will 
 
  - [Classes and Constructors](./csharp-intermediate-concepts/Classes-and-Constructors)
  - [Properties](./csharp-intermediate-concepts/Properties)
- - Static Members, Constants, and Extension Methods
+ - [Static Members, Constants, and Extension Methods](./csharp-intermediate-concepts/Static%20Members,%20Constants%20and%20Extension%20Methods)
  - [Anonymous and Nullable Types](./csharp-intermediate-concepts/Anonymous-and-Nullable-Types)
  - [Structures](./csharp-intermediate-concepts/Structures)
  - [Enumerations](./csharp-intermediate-concepts/Enumerations)
@@ -83,3 +83,9 @@ In this tutorial, we are going to learn about C# intermediate concepts. We will 
  - **Property Accessibility**:
  - We can change the accessibility level of only one accessor. There is no point in having both accessors modified. If we want to modify both accessors, we should just modify the property access level.
  - We can’t use access modifier on the get or set blocks that are less restrictive of the access modifier applied on a property itself. So, if our property is private, there is no point in having the public get or set block.
+
+###### Static Methods:
+ - Static methods are the methods that don’t belong to an instance of a class, can interact only with other static elements and have the static keyword in the method description.
+ 
+###### Extension Methods
+ - An extension method enables us to extend an existing type with additional static methods. We must create that kind of methods inside a static class and they have the first parameter prefixed with the this keyword.
