@@ -10,7 +10,7 @@ In this tutorial, we are going to learn about C# intermediate concepts. We will 
  - [Anonymous and Nullable Types](./csharp-intermediate-concepts/Anonymous-and-Nullable-Types)
  - [Structures](./csharp-intermediate-concepts/Structures)
  - [Enumerations](./csharp-intermediate-concepts/Enumerations)
- - Inheritance
+ - [Inheritance](./csharp-intermediate-concepts/Inheritance)
  - [Interfaces](./csharp-intermediate-concepts/Interfaces)
  - [Abstract Classes](./csharp-intermediate-concepts/Abstract-classes)
  - [Generics](./csharp-intermediate-concepts/Generics)
