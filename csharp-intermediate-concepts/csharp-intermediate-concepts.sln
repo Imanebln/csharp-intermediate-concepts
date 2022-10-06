@@ -17,9 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes-and-Constructors", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Anonymous-and-Nullable-Types", "Anonymous-and-Nullable-Types\Anonymous-and-Nullable-Types.csproj", "{DC8C1740-45DA-4CFA-A883-128542F5F101}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structures", "Structures\Structures.csproj", "{4928F5F2-1F07-4FF7-B36A-2093F7C45E71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structures", "Structures\Structures.csproj", "{4928F5F2-1F07-4FF7-B36A-2093F7C45E71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumerations", "Enumerations\Enumerations.csproj", "{97433291-5F43-42DB-8AE8-C1CA853E19FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enumerations", "Enumerations\Enumerations.csproj", "{97433291-5F43-42DB-8AE8-C1CA853E19FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{1BECAA4B-7C54-4578-AD53-D36DF9A7042D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{97433291-5F43-42DB-8AE8-C1CA853E19FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97433291-5F43-42DB-8AE8-C1CA853E19FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97433291-5F43-42DB-8AE8-C1CA853E19FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BECAA4B-7C54-4578-AD53-D36DF9A7042D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BECAA4B-7C54-4578-AD53-D36DF9A7042D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BECAA4B-7C54-4578-AD53-D36DF9A7042D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BECAA4B-7C54-4578-AD53-D36DF9A7042D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
